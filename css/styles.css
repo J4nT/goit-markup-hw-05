@@ -391,6 +391,9 @@ background-color: var(--ocean-color);
     /*HW-05 poniżej dodano*/
     transition: color 250ms cubic-bezier(0.4,0,0.2,1);
 }
+.transistion{
+    transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+}
 .after{
     /*HW-05 poniżej dodano*/
         position: relative;
