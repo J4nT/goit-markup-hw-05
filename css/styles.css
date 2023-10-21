@@ -504,7 +504,7 @@ background-color: var(--ocean-color);
     background-color: var(--ocean-color);
 }
 .svg-socials{
-    fill: var(--cloud-color)
+    fill: var(--cloud-color) /*hw-04*/
 }
 .section-five{
     padding-top: 120px;
