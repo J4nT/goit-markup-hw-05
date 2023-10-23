@@ -159,6 +159,7 @@ transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1),
 line-height: 1.5;
 letter-spacing: 0.02em;
 /*nalezy do portfolio*/
+color: var(--slate-color);
 }
 .footer{
     background-color: var(--navy-blue-color);
@@ -403,6 +404,7 @@ background-color: var(--ocean-color);
         position: relative;
         color: var(--ocean-color);
         transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+        width: 100%;
 }
 .link-active::after{
     content: "";
